@@ -1,0 +1,9 @@
+Jupyter documentation   -   https://docs.jupyter.org/en/latest/index.html
+Google Colab   -   https://colab.research.google.com/notebooks/intro.ipynb
+NumPy   -   https://numpy.org/doc/stable/
+Pandas   -   https://pandas.pydata.org/docs/
+Matplotlib   -   https://matplotlib.org/stable/index.html
+Seaborn   -   https://seaborn.pydata.org/
+Scikit-learn   -   https://scikit-learn.org/stable/
+TensorFlow   -   https://www.tensorflow.org/guide
+Ollama   -   https://ollama.com/docs
